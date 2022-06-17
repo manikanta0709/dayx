@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Downloads\dayx\dayx\dayx\bin\Debug\net6.0\dayx.exe
+C:\Users\Lenovo\Downloads\dayx\dayx\dayx\bin\Debug\net6.0\dayx.deps.json
+C:\Users\Lenovo\Downloads\dayx\dayx\dayx\bin\Debug\net6.0\dayx.runtimeconfig.json
+C:\Users\Lenovo\Downloads\dayx\dayx\dayx\bin\Debug\net6.0\dayx.dll
+C:\Users\Lenovo\Downloads\dayx\dayx\dayx\bin\Debug\net6.0\dayx.pdb
+C:\Users\Lenovo\Downloads\dayx\dayx\dayx\obj\Debug\net6.0\dayx.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\dayx\dayx\dayx\obj\Debug\net6.0\dayx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\dayx\dayx\dayx\obj\Debug\net6.0\dayx.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\dayx\dayx\dayx\obj\Debug\net6.0\dayx.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\dayx\dayx\dayx\obj\Debug\net6.0\dayx.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\dayx\dayx\dayx\obj\Debug\net6.0\dayx.dll
+C:\Users\Lenovo\Downloads\dayx\dayx\dayx\obj\Debug\net6.0\refint\dayx.dll
+C:\Users\Lenovo\Downloads\dayx\dayx\dayx\obj\Debug\net6.0\dayx.pdb
+C:\Users\Lenovo\Downloads\dayx\dayx\dayx\obj\Debug\net6.0\dayx.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\dayx\dayx\dayx\obj\Debug\net6.0\ref\dayx.dll
