@@ -4,13 +4,14 @@ Random random = new Random();
 int res = random.Next(0, 2);
 Console.WriteLine(res);
 const int wageperhour = 20, dayhour = 8, parttimehour=4;
-if(res==1)
+switch (res)
 {
-    Console.WriteLine("present");
-    Console.WriteLine("dailywage:"+ (wageperhour * dayhour));
-    Console.WriteLine("parttime wage:" + (wageperhour * parttimehour));
-}
-else
-{
-    Console.WriteLine("absent");
+    case 1:
+        Console.WriteLine("present");
+        Console.WriteLine("dailywage:" + wageperhour * dayhour);
+        Console.WriteLine("parttime wage:" + wageperhour * parttimehour);
+        break;
+    default:
+        Console.WriteLine("absent");
+        break;
 }
